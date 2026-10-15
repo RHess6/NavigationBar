@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# TcXaeShell Solution File, Format Version 11.00
+VisualStudioVersion = 17.10.35827.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "NavBarTest", "NavBarTest\NavBarTest.hmiproj", "{66B9831B-CEF2-4A80-918D-33634D9EA22B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66B9831B-CEF2-4A80-918D-33634D9EA22B}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{66B9831B-CEF2-4A80-918D-33634D9EA22B}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{66B9831B-CEF2-4A80-918D-33634D9EA22B}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{66B9831B-CEF2-4A80-918D-33634D9EA22B}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5528B5C4-3B56-47A9-91DF-E436E6E3A786}
+	EndGlobalSection
+EndGlobal
